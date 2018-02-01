@@ -1,0 +1,9 @@
+body{
+    background-image: url(beach.png);
+    text-align: center
+   
+}
+h1{
+    font-size: 3.5em;
+    color: black;
+}
